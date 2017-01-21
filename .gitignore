@@ -1,0 +1,3 @@
+*.[sb]#[0-9]
+/Firmware/DummyLoad.X/build/default/
+/Firmware/DummyLoad.X/dist/default/
